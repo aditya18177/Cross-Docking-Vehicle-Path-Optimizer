@@ -1,0 +1,12 @@
+node_id,type,x,y,demand
+0,crossdock,50,50,0
+1,supplier,38,43,22
+2,supplier,14,57,22
+3,supplier,20,82,16
+4,supplier,10,74,17
+5,customer,95,23,-12
+6,customer,62,26,-11
+7,customer,86,43,-15
+8,customer,76,65,-21
+9,customer,77,26,-21
+10,customer,81,88,-10
